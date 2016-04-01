@@ -1,0 +1,31 @@
+{
+    "jogos":
+    [
+        {
+            "id": 1,
+            "nome": "God Of War Ascencion",
+            "data": "12 de março de 2013",
+            "img": "imgs/GOW.jpg",
+            "nota": "Violentamente Épico!",
+            "descrição": "Baseado na mitologia grega e a decorrer na Grécia Antiga, o jogador controla o personagem Kratos que tenta cortar os laços com o Deus da Guerra, Ares, - que enganou Kratos levando-o a assassinar a sua família - ao derrotar as três Fúrias. Ascension é cronologicamente o primeiro capítulo da série, fazendo parte de uma saga em que a vingança é o tema central."
+
+        },
+        {
+            "id": 2,
+            "nome": "Mortal Kombat X",
+            "data": "7 de abril de 2015",
+            "img": "imgs/MK4.jpg",
+            "nota": "Get Over Here!",
+            "descrição": "Mortal Kombat X‍ é um jogo de luta em que dois jogadores lutam um contra o outro (ou contra IA), usando uma enorme variedade de ataques. Para além de incluir várias mecânicas usadas em capítulos anteriores, em Mortal Kombat X‍ cada lutador tem três ‘variações’, cada uma com o seu próprio estilo e lista de movimentos. Mortal Kombat X‍ tem vários modos, como o modo história que tem lugar vinte anos depois dos acontecimentos ocorridos no jogo anterior, numerosos modos online, e a 'Kripta', em que o jogador usa uma perspectiva na primeira pessoa e tem de explorar áreas para desbloquear várias recompensas."
+        },
+        {
+            "id": 3,
+            "nome": "Shadow of the Colossus",
+            "data": "18 de outubro de 2005",
+            "img": "imgs/SOTC.jpg",
+            "nota": "Nostálgico!",
+            "descrição": "O seu enredo se foca em um jovem chamado Wander que deve viajar por um vasto território, chamado de Região Proibida afim de derrotar dezesseis criaturas, conhecidas simplesmente como 'Colossi' (ou 'colossus'), para restaurar a vida de uma garota chamada Mono. "
+        }
+
+    ]
+}

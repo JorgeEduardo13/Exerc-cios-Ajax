@@ -1,0 +1,30 @@
+{
+    "imagens":
+    [
+        {
+            "id": "imgs/Deadpool.png"
+        },
+        {
+            "id": "imgs/Parkour.jpg"
+        },
+        {
+            "id": "imgs/Coruja.jpg"
+        },
+        {
+            "id": "imgs/Psicologa.png"
+        },
+        {
+            "id": "imgs/Semana.jpg"
+        },
+        {
+            "id": "imgs/Senhor.jpg"
+        },
+        {
+            "id": "imgs/SpiderTroll.gif"
+        },
+        {
+            "id": "imgs/Vingadores.jpg"
+        }
+
+    ]
+}
